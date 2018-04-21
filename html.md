@@ -2,7 +2,7 @@
 
 Tipo: `leitura`
 
-* Formato: `próprio ritmo`
+* Formato: `ritmo próprio`
 * Duração: `1h`
 
 ## Objetivos de Aprendizagem
