@@ -2,7 +2,7 @@
 
 * Initial page
 * [Revisão Pré-Trabalho](revisao-pre-trabalho.md)
-* [Instruções para o SelfLearning](instrucoes-para-o-selflearning.md)
+* [Instruções para a Autoaprendizagem](instrucoes-para-o-selflearning.md)
 * [HTML](html.md)
 * [CSS](css.md)
 * [Modelo de Caixa](modelo-de-caixa.md)

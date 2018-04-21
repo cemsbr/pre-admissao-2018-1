@@ -1,4 +1,4 @@
-# Instruções para o SelfLearning
+# Instruções para a Autoaprendizagem
 
 ## Instruções {#intrucciones}
 
