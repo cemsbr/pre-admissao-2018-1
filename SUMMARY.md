@@ -1,8 +1,8 @@
 # Table of contents
 
 * Initial page
-* [Revisão Pré-Trabalho](revisao-pre-trabalho.md)
-* [Instruções para a Autoaprendizagem](instrucoes-para-o-selflearning.md)
+* [Revisão Pré-Trabalho](revisao-pre-trabalho/README.md)
+  * [Instruções para a Autoaprendizagem](revisao-pre-trabalho/instrucoes-para-o-selflearning.md)
 * [HTML](html.md)
 * [CSS](css.md)
 * [Modelo de Caixa](modelo-de-caixa.md)
