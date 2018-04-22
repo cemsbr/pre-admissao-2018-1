@@ -2,53 +2,51 @@
 
 ## Ferramentas {#herramientas}
 
-Aqui você encontrará links para ferramentas que acreditamos que podem ajudá-lo a enfrentar o desafio que propusemos para essa semana de pré-lançamento. Essas ferramentas ajudarão você a organizar a maneira como trabalha com seus parceiros / trios e a maneira como eles mantêm e apresentam seu código. As ferramentas que queremos que você explore são:
+Aqui você encontrará links para ferramentas que acreditamos que podem ajudá-la a enfrentar o desafio que propusemos para essa semana de pré-admissão. Essas ferramentas ajudarão você a organizar a maneira como trabalha com suas duplas/trios e a maneira como elas mantêm e apresentam seu código. As ferramentas que queremos que você explore são:
 
-1. github
+1. Github
 2. Trello
-3. Revisão de código
-4. Caneta de código \(seu professor explicará como essa ferramenta funciona\)
+3. Revisão de Código
+4. _Code Pen_ \(sua professora explicará como essa ferramenta funciona\)
 5. Um guia de estilo JavaScript
 
 | \# | Ferramenta | Link |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1,1 | Github | [Vídeo](https://www.youtube.com/watch?v=GDFr8j_ZHwY) . |
-| 1,2 | Github | [Lendo](https://laboratoria1.gitbooks.io/manual-git/) . |
-| 2,1 | Trello | [Lendo](https://trello.com/guide/getting-started.html) . |
-| 2,2 | Trello | [Vídeo](https://help.trello.com/article/899-getting-started-video-demo) . |
-| 03 | Revisão de Código | Ver abaixo |
-| 04 | Caneta de código | Ver abaixo |
+| 1.1 | Github | [Vídeo](https://www.youtube.com/watch?v=GDFr8j_ZHwY) . |
+| 1.2 | Github | [Lendo](https://laboratoria1.gitbooks.io/manual-git/) . |
+| 2.1 | Trello | [Lendo](https://trello.com/guide/getting-started.html) . |
+| 2.2 | Trello | [Vídeo](https://help.trello.com/article/899-getting-started-video-demo) . |
+| 3.0 | Revisão de Código | Ver abaixo |
+| 4.0 | Code Pen | Ver abaixo |
 
-### Revisão de código: {#code-review}
+### Revisão de Código:
 
-Quando eles estiverem mais avançados em seu desafio, teremos um espaço especial no qual você terá a possibilidade de fazer comentários e observações sobre o código de outro grupo de trabalho. Esta atividade objetivo é ser capaz de colaborar com outros colegas: Você terá a oportunidade de aprender com o trabalho dos outros e também para dar-lhes idéias para eles para que eles possam melhorar o seu código. A dínamca é a seguinte:
+Quando vocês estiverem mais avançadas em seu desafio, teremos um espaço especial no qual você terá a possibilidade de fazer comentários e observações sobre o código de outro grupo de trabalho. Esta atividade tem como objetivo ser capaz de colaborar com outras colegas: Você terá a oportunidade de aprender com o trabalho das outras e também para dar-lhes idéias para elas possam melhorar o seu código. A dinâmica é a seguinte:
 
-Cada par / trio expõe seu código ao resto do elenco. Todos comentam / discutem o código que está sendo apresentado. Todos esses comentários ajudarão você e seu grupo a melhorar o código deles. Neste exercício **melhora** emnós chamamos isso de _refatoração_ .
+Cada dupla/trio expõe seu código ao resto do grupo. Todas comentam/discutem o código que está sendo apresentado. Todos esses comentários ajudarão você e seu grupo a melhorar o código. Este exercício de **melhorar** chamamos de _refatoração_ .
 
-O importante é tentar entender o código do meu parceiro, ou seja, o que ele fez, como ele pensou sobre o problema, como ele construiu a solução, etc. Você tem que tentar dar soluções baseadas na lógica da outra pessoa, ao invés de dizer "faça assim", "mude", "isso está errado", "eu fiz aquilo".
+O importante é tentar entender o código da minha parceira e dizer o que ela fez, como ela pensou sobre o problema, como ela construiu a solução, etc. Você tem que tentar dar soluções baseadas na lógica da outra pessoa, ao invés de dizer "faça assim", "mude", "isso está errado", "eu fiz aquilo".
 
 Você deve considerar que:
 
-1. **Todas as soluções são válidos** : muitos códigos podem alcançar a solução, uma vez que a nossa forma de escrever e acho que o código é pessoal, portanto, cada código é único Melhor ajuste: a idéia de revisão do código é para achar que o código é mais preciso, isto é, é autoexplicativo, refatorado, tem comentários, tem boas práticas, etc. Ser capaz de aprender e integrá-lo na aprendizagem.
-2. **Aproveite o aprendizado** : não importa que você não atinja a solução perfeita, o importante é aproveitar a instância de aprendizado para buscar melhorias ou soluções para o que não encontramos.
-3. **Irmandade** : a visão de outras companheiras pode me ajudar. Se eu não tiver a solução, meu time provavelmente tem isso.
+1. **Todas as soluções são válidas** : muitos códigos podem alcançar a solução, uma vez que a nossa forma de escrever o código é pessoal, portanto cada código é único: a idéia de revisão do código é encontrar um o código mais preciso, isto é,  autoexplicativo, refatorado, comentado, que utiliza boas práticas, etc. Ser capaz de aprender e integrá-lo na aprendizagem.
+2. **Aproveite o aprendizado** : não importa que você não atinja a solução perfeita, o importante é aproveitar o momento de aprendizado para buscar melhorias ou soluções para o que não consiguimos.
+3. **Companheirismo**: a visão de outras companheiras pode me ajudar. Se eu não tiver a solução, meu grupo provavelmente tem.
 
 Você pode considerar:
 
-1. **Documentação** : O código é devidamente documentado e comentado? \(Possíveis respostas: Precisa de mais trabalho / Algo / Sim, é ótimo\). Onde a documentação deveria melhorar?
-2. **Tratamento de erros** : o código manipula erros corretamente? \(Possíveis respostas: Precisa de mais trabalho / Algo / Sim, é ótimo\). Onde o tratamento de erros deve ser melhor?
-3. **Sugestões** : Forneça duas sugestões para o autor do código sobre como melhorar o código.
+1. **Documentação**: O código é devidamente documentado e comentado? \(Possíveis respostas: Precisa de mais trabalho/Um pouco/Sim, é ótimo\). Em que a documentação deveria melhorar?
+2. **Tratamento de Erros** : o código trata  erros corretamente? \(Possíveis respostas: Precisa de mais trabalho/Um pouco/Sim, é ótimo\). Em que o tratamento de erros deve ser melhor?
+3. **Sugestões** : Forneça duas sugestões para a autora do código sobre como melhorar o código.
 4. **LEMBRE-SE ...** A qualidade do código raramente é em preto e branco. Haverá discordâncias, diferentes soluções corretas e preferências pessoais.
 
-### Um guia de estilo JavaScript {#una-guía-de-estilo-de-javascript}
+## Um guia de estilo JavaScript
 
 [Versão em inglês](https://danielasarzosa.gitbooks.io/preadmision-20181/content/README-EN.md)
 
-#### Regras Básicas {#reglas-básicas}
+### Regras Básicas
 
-**Termine cada instrução com um ponto e vírgula.**
-
-_**Termine cada afirmação com um ponto e vírgula.**_
+### **Termine cada instrução com um ponto e vírgula.**
 
 eslint: [semi](http://eslint.org/docs/rules/semi)
 
@@ -57,9 +55,7 @@ var x = 5   // ✗ evitar
 var x = 5;  // ✓ ok
 ```
 
-**Use 2 espaços como recuo.**
-
-_**Use 2 espaços para recuo.**_
+### **Use 2 espaços como recuo.**
 
 eslint: [recuo](http://eslint.org/docs/rules/indent)
 
@@ -75,11 +71,9 @@ function hello(name) {
 }
 ```
 
-**Nomes de variáveis ​​e funções**
+### **Nomes de variáveis ​​e funções**
 
 **Use nomes descritivos em inglês e no formato camelCase.**
-
-_**Use nomes descritivos, em inglês, usando o camelCase.**_
 
 eslint: [id-length](http://eslint.org/docs/rules/id-length)   
 eslint: [camelcase](http://eslint.org/docs/rules/camelcase)
@@ -96,9 +90,7 @@ const thisIsMyObject = {};
 function thisIsMyFunction() {}
 ```
 
-#### Uso de espaços em branco {#uso-de-espacios-en-blanco}
-
-**Onde adicionar espaços**
+### Uso de espaços em branco
 
 **Adicione um espaço após as palavras-chave.**
 
@@ -109,9 +101,9 @@ if (condition) { ... }   // ✓ ok
 if(condition) { ... }    // ✗ evitar
 ```
 
-**Adicione espaços em cada lado dos operadores.**
+### **Adicione espaços em cada lado dos operadores.**
 
-Com exceção dos operadores de incremento e decremento \(por exemplo, `i++`o `i--`\).   
+Com exceção dos operadores de incremento e decremento \(por exemplo, `i++`ou`i--`\).   
 
 
 eslint: [space-infix-ops](http://eslint.org/docs/rules/space-infix-ops)
@@ -126,7 +118,7 @@ var x = 2;
 var message = 'hello, ' + name + '!';
 ```
 
-**Adicione um espaço após as vírgulas.**
+### **Adicione um espaço após as vírgulas.**
 
 Exceto se for o último símbolo na linha.   
 
@@ -143,7 +135,7 @@ var list = [1,2,3,4];
 function greet(name,options) { ... }
 ```
 
-**Adicione um espaço antes dos blocos.**
+### **Adicione um espaço antes dos blocos.**
 
 eslint: [space-before-blocks](http://eslint.org/docs/rules/space-before-blocks)
 
@@ -152,7 +144,7 @@ if (admin){...}     // ✗ evitar
 if (admin) {...}    // ✓ ok
 ```
 
-**Use espaços nos comentários.**
+### **Use espaços nos comentários.**
 
 eslint: [espaçado-comentário](http://eslint.org/docs/rules/spaced-comment)
 
@@ -164,7 +156,7 @@ eslint: [espaçado-comentário](http://eslint.org/docs/rules/spaced-comment)
 /* comment */       // ✓ ok
 ```
 
-**Adicione um espaço entre dois pontos e pares de chaves de valor.**
+### **Adicione um espaço entre dois pontos e pares de chaves de valor.**
 
 eslint: [espaçamento entre chaves](http://eslint.org/docs/rules/key-spacing)
 
@@ -176,9 +168,9 @@ var obj = { 'key':'value' };      // ✗ evitar
 var obj = { 'key': 'value' };     // ✓ ok
 ```
 
-**Onde não adicionar espaços**
+## **Onde não adicionar espaços**
 
-**Evite o uso de vários espaços em branco, exceto o recuo.**
+### **Evite o uso de vários espaços em branco, exceto o recuo.**
 
 eslint: [não-multi-espaços](http://eslint.org/docs/rules/no-multi-spaces)
 
@@ -188,9 +180,9 @@ const id =    1234;    // ✗ evitar
 const id = 1234;       // ✓ ok
 ```
 
-**Evite espaços em branco entre parênteses.**
+### **Evite espaços em branco entre parênteses.**
 
-eslint: [espaço-em-parens](http://eslint.org/docs/rules/space-in-parens)
+eslint: [espaço-em-parênteses](http://eslint.org/docs/rules/space-in-parens)
 
 ```text
 getName( name )     // ✗ evitar
@@ -198,7 +190,7 @@ getName( name )     // ✗ evitar
 getName(name)       // ✓ ok
 ```
 
-**Evite usar espaços antes dos parênteses da função declarada.**
+### **Evite usar espaços antes dois parênteses da função declarada.**
 
 eslint: [space-before-function-paren](http://eslint.org/docs/rules/space-before-function-paren)
 
@@ -210,7 +202,7 @@ run(function () { ... })      // ✗ evitar
 run(function() { ... })       // ✓ ok
 ```
 
-**Evite usar espaços entre o identificador da função e sua chamada.**
+### **Evite usar espaços entre o identificador da função e sua chamada.**
 
 eslint: [func-call-espaçamento](http://eslint.org/docs/rules/func-call-spacing)
 
@@ -220,9 +212,9 @@ console.log ('hello'); // ✗ evitar
 console.log('hello');  // ✓ ok
 ```
 
-#### **Como usar linhas em branco** {#cómo-usar-líneas-en-blanco}
+## **Como usar linhas em branco**
 
-**Não use várias linhas em branco.**
+### **Não use várias linhas em branco.**
 
 eslint: [no-multiple-empty-lines](http://eslint.org/docs/rules/no-multiple-empty-lines)
 
@@ -239,7 +231,7 @@ var value = 'hello world';
 console.log(value);
 ```
 
-**Não usa linhas de preenchimento em branco entre os blocos.**
+### **Não usa linhas de preenchimento em branco entre os blocos.**
 
 eslint: [blocos acolchoados](http://eslint.org/docs/rules/padded-blocks)
 
@@ -255,12 +247,11 @@ if (user) {
 }
 ```
 
-#### **Outras dicas de formatação** {#otros-consejos-de-formato}
+## **Outras dicas de formatação**
 
-**Use aspas simples nas cadeias de texto.**
+### **Use aspas simples nas cadeias de texto.**
 
-Com a exceção para evitar texto com escape.   
-_Exceto quando você precisa usar aspas simples em sua string._
+Exceto quando você precisa usar aspas simples em sua string.
 
 eslint: [citações](https://eslint.org/docs/rules/quotes)
 
@@ -270,7 +261,7 @@ var str = "hi";   // ✗ evitar
 var str = 'hi';   // ✓ ok
 ```
 
-**Evite pontos decimais flutuantes.**
+### **Evite pontos decimais flutuantes.**
 
 eslint: [sem-decimal-flutuante](http://eslint.org/docs/rules/no-floating-decimal)
 
@@ -280,7 +271,7 @@ const discount = .5;      // ✗ evitar
 const discount = 0.5;     // ✓ ok
 ```
 
-**Manter a consistência de declarar propriedades de um objeto por linha.**
+### **Manter a consistência de declarar propriedades de um objeto por linha.**
 
 eslint: [object-property-newline](http://eslint.org/docs/rules/object-property-newline)
 
@@ -299,7 +290,7 @@ const user = {
 };
 ```
 
-**Mantenha a declaração else na mesma linha das suas chaves.**
+### **Mantenha a declaração else na mesma linha das suas chaves.**
 
 eslint: [brace-style](http://eslint.org/docs/rules/brace-style)
 
@@ -320,9 +311,9 @@ if (condition) {
 }
 ```
 
-#### Boas práticas {#buenas-prácticas}
+## Boas práticas
 
-**Sempre use === em vez de ==.**
+### **Sempre use === em vez de ==.**
 
 Com exceção de obj == null para verificar se o objeto é nulo \|\| indefinido   
 
@@ -337,7 +328,7 @@ if (name != 'John')    // ✗ evitar
 if (name !== 'John')   // ✓ ok
 ```
 
-**Use array literal em vez de construtores de array.**
+### **Use array literal em vez de construtores de array.**
 
 eslint: [no-array-construtor](http://eslint.org/docs/rules/no-array-constructor)
 
