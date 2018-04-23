@@ -247,9 +247,9 @@ if (user) {
 }
 ```
 
-## **Outras dicas de formatação**
+### **Outras dicas de formatação**
 
-### **Use aspas simples nas cadeias de texto**
+#### **Use aspas simples nas cadeias de texto**
 
 Exceto quando você precisa usar aspas simples em sua string.
 
@@ -261,7 +261,7 @@ var str = "hi";   // ✗ evitar
 var str = 'hi';   // ✓ ok
 ```
 
-### **Evite pontos decimais flutuantes**
+#### **Evite pontos decimais flutuantes**
 
 eslint: [sem-decimal-flutuante](http://eslint.org/docs/rules/no-floating-decimal)
 
@@ -271,7 +271,7 @@ const discount = .5;      // ✗ evitar
 const discount = 0.5;     // ✓ ok
 ```
 
-### **Manter a consistência de declarar uma propriedade de um objeto por linha**
+#### **Manter a consistência de declarar uma propriedade de um objeto por linha**
 
 eslint: [object-property-newline](http://eslint.org/docs/rules/object-property-newline)
 
@@ -290,7 +290,7 @@ const user = {
 };
 ```
 
-### **Mantenha a declaração `else` na mesma linha de suas chaves**
+#### **Mantenha a declaração `else` na mesma linha de suas chaves**
 
 eslint: [brace-style](http://eslint.org/docs/rules/brace-style)
 
@@ -311,9 +311,9 @@ if (condition) {
 }
 ```
 
-## Boas práticas
+### Boas práticas
 
-### **Sempre use `===` em vez de `==`**
+#### **Sempre use `===` em vez de `==`**
 
 Com exceção de `obj == null` para verificar se o objeto é nulo `||` indefinido   
 
@@ -328,7 +328,7 @@ if (name != 'John')    // ✗ evitar
 if (name !== 'John')   // ✓ ok
 ```
 
-### **Use array literal em vez de construtores de array**
+#### **Use array literal em vez de construtores de array**
 
 eslint: [no-array-construtor](http://eslint.org/docs/rules/no-array-constructor)
 
@@ -337,6 +337,3 @@ var nums = new Array(1, 2, 3);   // ✗ evitar
 
 var nums = [1, 2, 3];            // ✓ ok
 ```
-
-
-
