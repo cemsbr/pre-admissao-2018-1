@@ -9,7 +9,7 @@
 ## Objetivos de Aprendizagem
 
 * Entender o que é CSS e como funciona
-* Conhecer as diferentes maneiras de adicionar estilos à sua página _web_
+* Conhecer as diferentes maneiras de adicionar estilos à sua página web
 * Aprender a sintaxe CSS
 * Aprender o que são seletores e quais são os seletores mais usados
 
@@ -17,13 +17,13 @@
 
 CSS significa _Cascading Style Sheets_ \(em português: folhas de estilo em cascata\). É uma linguagem usada para definir e criar a apresentação de um documento escrito em HTML. CSS descreve como os elementos na estrutura do documento devem ser apresentados na tela. Com CSS, damos estilo e design a páginas da web. Nós mudamos cores, tamanhos, espaços, adicionamos animações, etc.
 
-Existem três opções para incluir CSS em um documento HTML:
+Existem três opções para incluir CSS em um documento HTML.
 
 ### 1. CSS Inline
 
 Já vimos como adicionar estilos aos nossos elementos HTML com o atributo _style_. Por exemplo:
 
-```text
+```markup
 <h1 style="color: blue;
 background-color: yellow;
 border: 1px solid black;">Olá, Mundo!</h1>
@@ -33,13 +33,13 @@ No navegador, o texto anterior ficaria assim:
 
 ![Estilo Inline](https://github.com/Laboratoria/curricula-js/blob/632783f957accef3442934c87cecd254a202f2db/03-interactive-site/00-html-and-css/02-css/img-inline-style.png?raw=true)
 
-Essa maneira de adicionar CSS é chamada de CSS em linha, mas isso não é recomendado. Sua manutenção é complicada, já que poderíamos ter que atualizar as mesmas informações várias vezes ao longo do documento. Além disso, estamos misturando informações de estilo com informações HTML estruturais, tornando o CSS difícil de ler e entender. Manter os diferentes tipos de código separados e limpos facilitará a tarefa para aqueles que posteriormente trabalharão no código. Lembre-se de que você deve sempre pensar em organizar seu código de uma maneira que torne mais fácil para os outros entenderem o que você está fazendo.
+Essa maneira de adicionar CSS é chamada de CSS em linha, mas isso não é recomendado. Sua manutenção é complicada, já que poderíamos ter que atualizar as mesmas informações várias vezes ao longo do documento. Além disso, estamos misturando informações de estilo com informações HTML estruturais, tornando o CSS difícil de ler e entender. Manter os diferentes tipos de código separados e limpos facilitará a tarefa para aqueles que trabalharão no código posteriormente. Lembre-se de que você deve sempre pensar em organizar seu código de uma maneira que torne mais fácil para os outros entenderem o que você fez.
 
 ### 2. CSS no cabeçalho
 
-Outra opção é colocar os estilos dentro de um elemento html `<style>`que nós colocamos no`head`. Por exemplo, para representar os mesmos estilos do `h1`anterior, teríamos o seguinte:
+Outra opção é colocar os estilos dentro de um elemento html `style`que nós colocamos no`head`. Por exemplo, para representar os mesmos estilos do `h1`anterior, teríamos o seguinte:
 
-```text
+```markup
 <!DOCTYPE html>
 <html>
   <head>
@@ -58,26 +58,26 @@ Outra opção é colocar os estilos dentro de um elemento html `<style>`que nós
 </html>
 ```
 
-Este método continua a ser ineficiente. O que acontece se tivermos estilos semelhantes em outras páginas do meu site? Eu teria que repetir os estilos em cada página. E lembre-se que não gostamos de nos repetir: NSR! :\)
+Este método continua a ser ineficiente. O que acontece se tivermos estilos semelhantes em outras páginas do meu site? Eu teria que repetir os estilos em cada página. E lembre-se que não gostamos de nos repetir: DRY! :\)
 
-### 3. Folha de estilos externa CSS
+### 3. CSS externo
 
-A maneira ideal de adicionar estilos ao seu sítio da Web é ter um arquivo CSS separado do arquivo HTML. Todos os estilos são incluídos neste arquivo CSS externo, que as páginas HTML vinculam usando a marcação HTML `<link>`.
+A maneira ideal de adicionar estilos ao seu sítio da Web é ter um arquivo CSS separado do arquivo HTML. Todos os estilos são incluídos neste arquivo CSS externo que as páginas HTML fazem referência através do marcador HTML `link`.
 
-Vale ressaltar que este link externo pode ser um arquivo que está no seu computador ou um link para um arquivo externo da Internet. \(um endereço HTTP\)
+Vale ressaltar que este link externo pode ser um arquivo que está no seu computador ou um link para um arquivo externo da Internet \(um endereço HTTP\).
 
-No caso do nosso exemplo anterior com os estilos para ele `h1`, teríamos dois arquivos:
+No caso do nosso exemplo anterior, com os estilos para `h1`, teríamos dois arquivos:
 
 **Arquivo `index.html`**
 
-```text
+```markup
 <!DOCTYPE html>
 <html>
   <head>
     <title>Entendo CSS</title>
-    <!--Link para arquivo que está na mesma máquina.-->
+    <!--Link para o arquivo que está na mesma máquina.-->
     <link rel="stylesheet" href="style.css">
-    <!--Link para  arquivo que está na internet-->
+    <!--Link para o arquivo que está na internet-->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">
   </head>
@@ -97,28 +97,28 @@ h1 {
 }
 ```
 
-A tag `<link>`tem o atributo `rel`para indicar o relacionamento do documento vinculado ao atual. O uso mais comum desse atributo é especificar o link para uma folha de estilos externa: o atributo `rel`é definido com valor `stylesheet`. O atributo `href`é definido com o caminho para a folha de estilo externa para formatar a página. No exemplo acima, uma vez que o arquivo para ligar está em nosso próprio ambiente, nós simplesmente colocamos o nome do arquivo: `style.css`.
+O marcador `<link>`tem o atributo `rel`para indicar o relacionamento do documento vinculado ao atual. O uso mais comum desse atributo é especificar o link para uma folha de estilos externa: o atributo `rel`é definido com valor `stylesheet`. O atributo `href`é definido com o caminho para a folha de estilo externa para formatar a página. No exemplo acima, uma vez que o arquivo a vincular está em nosso próprio ambiente, nós simplesmente colocamos o nome do arquivo: `style.css`.
 
 ### Sintaxe CSS {#sintaxis-css}
 
-Como vimos na lição anterior, para especificar o estilo, usamos os pares `propiedades : valores`.
+Como vimos na aula anterior, usamos pares `propiedade: valor` para especificar o estilo.
 
-* Propriedades: são identificadores que indicam às pessoas qual recurso de estilo \(largura, cor de fundo, fonte\) queremos alterar.
+* Propriedades: são identificadores que indicam às pessoas qual recurso de estilo \(largura, cor de fundo, fonte\) queremos alterar;
 * Valores: cada propriedade recebe um valor, que indica como queremos alterar essa característica \(por exemplo, qual fonte, qual largura ou qual cor usar\).
 
-O par formado por uma propriedade e um valor é chamado de **declaração** CSS. Várias instruções juntas formam um **bloco de instruções** . Para definir para qual elemento da página web o estilo especificado pelo bloco de declaração deve ser aplicado, usamos um **seletor** . O seletor informa ao navegador para qual elemento \(ou elementos\) de uma Web deve aplicar um determinado estilo. Por exemplo, um seletor pode ser um título, um parágrafo, uma imagem etc. Blocos de declaração CSS pareados com seletores formam **regras CSS** .
+O par formado por uma propriedade e um valor é chamado de **declaração** CSS. Várias instruções juntas formam um **bloco de declaração**. Para definir para qual elemento da página web o estilo especificado pelo bloco de declaração deve ser aplicado, usamos um **seletor**. O seletor informa ao navegador para qual elemento \(ou elementos\) de uma página deve-se aplicar um determinado estilo. Por exemplo, um seletor pode ser um título, um parágrafo, uma imagem etc. Blocos de declaração CSS e seletores formam **regras CSS**.
 
-Por exemplo, uma regra de css seria:
+Por exemplo, uma regra de CSS seria:
 
-```text
-selector
+```css
+seletor
 |
 p { color: red; font-size: 15px; }
       |     |       |       |
-      prop  valor  prop    valor
+      prop. valor  prop.  valor
       ___________  ______________
            |              |
-      declaração     declaração
+       declaração     declaração
       ___________________________
                   |
          bloco de declaração
@@ -128,7 +128,7 @@ p { color: red; font-size: 15px; }
 
 A convenção para representar o exemplo anterior é a seguinte \(é mais fácil ler quando colocamos as instruções uma abaixo da outra\):
 
-```text
+```css
 p {
   color: red;
   font-size: 15px;
