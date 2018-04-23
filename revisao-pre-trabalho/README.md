@@ -1,6 +1,6 @@
-# Revisão Pré Admissão
+# Revisão Prework
 
-## Revisão de conceitos: Introdução JS
+## Revisão de conceitos: Introdução a JS
 
 * Tipo: `aula presencial`
 * Formato: `aprendizado orientado`
@@ -8,17 +8,17 @@
 
 ## Objetivos de Aprendizagem
 
-Nesta lição, revisaremos o curso `Introdução à Programação com Javascript` , garantindo que saibamos:
+Nesta lição, revisaremos o curso _Introdução à Programação com Javascript_, garantindo que saibamos:
 
-* Quais são os `tipos de dados`primitivos em Javascript?
-* Utilizar `variables`
+* Quais são os _tipos de dados _primitivos em Javascript?
+* Utilizar _variables_
 
 ## Agenda
 
 1. Entender bem os conceitos-chave, desenhando no quadro:
-   * Variáveis ​​
+   * Variáveis
    * Tipos de dados
-2. Por meio de exemplos no console, revise as operações de:
+2. Por meio de exemplos no console, revisar o funcionamento de:
 
    * `var`
    * `prompt()`
@@ -30,6 +30,8 @@ Nesta lição, revisaremos o curso `Introdução à Programação com Javascript
    * `slice()`
    * `parseInt()`
 
-3. Resolva o questionário e analise os resultados
+3. Resolva o _quiz_ e analise os resultados
    * [https://goo.gl/forms/1L5WzwV5MXNqcOmG3](https://goo.gl/forms/1L5WzwV5MXNqcOmG3)
+
+
 

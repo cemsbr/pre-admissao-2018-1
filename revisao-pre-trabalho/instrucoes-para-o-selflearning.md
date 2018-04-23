@@ -4,109 +4,111 @@
 
 Olá, querida candidata!
 
-Você está muito perto de entrar em nosso _bootcamp _e precisamos que você esteja bem preparada para iniciar sua carreira profissional em tecnologia. O mundo do trabalho que lhe espera tem algumas peculiaridades e é importante entender duas delas.
+Você está muito perto de entrar em nosso _bootcamp _e precisamos que você esteja bem preparada para iniciar sua carreira profissional em tecnologia. O mercado de trabalho que a espera tem algumas peculiaridades e é importante entender duas delas.
 
-Linguagens de programação, _frameworks_, metodologias de trabalho, inovações, técnicas UX, etc.  estão constantemente mudando e isso acontece muito mais rápido do que em outras indústrias. Daqui a quatro anos, o que você vai aprender neste _bootcamp _será totalmente diferente. Não podemos ensinar-lhe tudo, é impossível e não faz sentido pretendermos fazê-lo.
+Linguagens de programação, arcabouços \(_frameworks_\), metodologias de trabalho, as de inovação, técnicas de UX, etc.  estão constantemente mudando e isso acontece muito mais rápido do que em outras indústrias. Daqui a somente quatro anos, o que você terá aprendido neste _bootcamp _será totalmente diferente. Não podemos lhe ensinar tudo, é impossível e não faz sentido que pretendeamos fazê-lo.
 
-**Como fazemos então? Temos que trabalhar mais em sua capacidade de autoaprendizagem**, e é isso que irá ajudá-la a continuar aprendendo constantemente e não estagnar em sua carreira.
+**Como fazemos então? Temos que trabalhar mais em sua capacidade de autoaprendizagem.** É isso que irá ajudá-la a continuar aprendendo constantemente e não estagnar sua carreira.
 
-Por outro lado, ao contrário de outros campos de trabalho em que você pode ter sucesso individualmente, neste isso é quase impossível. **Sua capacidade de trabalhar em equipe e enfrentar desafios coletivos com muita incerteza** será constantemente testada, por isso trabalharemos mais sobre isso também.
+Por outro lado, ao contrário do que acontence em outros campos de trabalho, ter sucesso individualmente é quase impossível. **Sua capacidade de trabalhar em equipe e enfrentar desafios coletivos com muita incerteza** será constantemente provada, por isso trabalharemos mais nisso também.
 
-Nesta semana de pré-admissão, vamos trabalhar em dois aspectos \( **Autoaprendizagem - Trabalho em Equipe** \). Você irá trabalhar em grupo e também em  dupla/ trio específico dentro do seu grupo.
+Nesta semana de pré-admissão, vamos trabalhar em dois aspectos \(**Autoaprendizagem **-** Trabalho em equipe**\). Você trabalhará em Squad e também com uma dupla ou um trio específicos dentro de seu Squad.
 
-### Contexto de Autoaprendizagem {#contexto-del-selflearning}
+## Contexto de Autoaprendizagem
 
-Desta vez, estudar e aprender todo o conteúdo é uma responsabilidade de todo o grupo. Para conseguir isso, vamos trabalhar em duplas / trios e cada dupla / trio contribuirá para o grupo.
+Desta vez, estudar e aprender todo o conteúdo é uma responsabilidade de todo o Squad. Para conseguir isso, trabalharemos em duplas/trios e cada dupla/trio contribuirá para o grupo.
 
-Vamos atribuir-lhe uma dupla / trio:
+Vamos atribuir-lhe uma dupla/trio:
 
 Estes são todos os passos que você seguirá:
 
-1. Auto-organização \| Grupo
-2. Autoaprendizagem \| Individual e Duplas
-3. Questionário \| Individual
-4. Explicação ao Grupo \| Duplas
-5. Exposição de Dúvidas - Aula Orientada \| Grupo
+1. Auto-organização \| Squad
+2. Autoaprendizagem \| Individual e duplas
+3. Quiz \| Individual
+4. Explicação ao Squad \| Duplas
+5. Exposição de dúvidas - Aula direcionada \| Squad
 
-CALMA! Aqui vamos explicar mais calmamente o que você deve fazer com sua dupla / trio e grupo:
+CALMA! Aqui vamos explicar mais calmamente o que você deve fazer com sua dupla/trio e squad:
 
-Você tem uma tarefa individual e em grupo: vamos compartilhar com você algumas leituras e vídeos que as ajudarão a adquirir novos conhecimentos de programação. **VEJA: É muito importante que você entenda profundamente cada um dos conceitos que vamos ensinar**, porque nesta semana colocaremos um desafio de código no qual você nos mostrará tudo o que aprendeu. Não se preocupe, nós projetamos um conjunto de atividades que, com certeza, ajudarão você a lidar com todos esses novos conceitos como profissional. Dizemos que é uma tarefa individual e de grupo porque você terá a possibilidade de aprender sozinha e com suas colegas. A atividade funciona da seguinte maneira:
+Em seguida, você tem uma tarefa individual e em grupo: compartilharemos com você algumas leituras e vídeos que as ajudarão a adquirir novos conhecimentos de programação. **ATENÇÃO: é muito importante que você entenda profundamente cada um dos conceitos que vamos ensinar**, porque nesta semana, colocaremos um desafio de código no qual você nos mostrará tudo o que aprendeu. Não se preocupe, nós pensamos em um conjunto de atividades que, com certeza, ajudará você a lidar com todos esses novos conceitos como uma profissional. Dizemos que é uma tarefa individual e de grupo porque você terá a possibilidade de aprender sozinha e com suas colegas. A atividade funciona da seguinte maneira:
 
-No menu à direita, você pode encontrar as seções "HTML", "CSS", "BoxModel", etc. Nessas seções, você encontrará conteúdo que deve ler e aprender individualmente. No entanto, essa atividade de autoaprendizagem tem um componente diferente: **você deve decidir junto com o seu grupo uma maneira de distribuir o conteúdo entre os diferentes trios / duplas**. Por que queremos que o conteúdo seja dividido? Porque depois cada trio / dupla deverá fazer uma pequena explicação sobre essa parte do conteúdo e esclarecer, se possível, dúvidas que seu time tem sobre esse conteúdo. **VEJA: Isso não significa que você deve estudar apenas essa parte do conteúdo**. Cada uma de vocês tem a responsabilidade de ler todo o conteúdo, mas cada uma de vocês também é responsável por organizar com o sua parceira / trio para preparar uma pequena exposição da seção que corresponde a eles. **Uma recomendação: tente que a distribuição do conteúdo para as explicações seja equitativa** .
+No menu à direita, você pode encontrar as seções "HTML", "CSS", "BoxModel", etc. Nessas seções, você encontrará conteúdo que deve ler e aprender individualmente. No entanto, essa atividade de autoaprendizagem tem um componente diferente: **você deve decidir junto com o seu grupo uma maneira de distribuir o conteúdo entre diferentes trios/duplas**. Por que queremos que o conteúdo seja dividido? Porque depois, cada trio/dupla deverá fazer uma pequena explicação sobre essa parte do conteúdo e esclarecer, se possível, dúvidas que seu time tiver sobre esse conteúdo. **ATENÇÃO: isso não significa que você deve estudar apenas essa parte do conteúdo**. Cada uma de vocês tem a responsabilidade de ler todo o conteúdo, mas cada uma de vocês também é responsável por se organizar com seu par/trio para preparar uma pequena exposição de suas respectivas seções. **Uma recomendação: façam com que a distribuição do conteúdo para as explicações seja equitativa**.
 
-### 1. Auto-organização \| Grupo {#1-auto-organización--squad}
+## 1. Auto-organização \| Squad
 
 Duração: 15 minutos
 
-**Objetivo:** Organizar como você deseja distribuir e aprender todo o conteúdo de auto-aprendizagem.
+### **Objetivo**
 
-#### **Duas regras:** {#dos-reglas}
+Organizarem-se à vontade para distribuir e aprender TODO o conteúdo de autoaprendizagem.
+
+### **Duas regras**
 
 * Todas devem ler todo o conteúdo.
-* Cada dupla será responsável por **explicar** uma parte do autoaprendizado para o resto do time.
+* Cada dupla será responsável por **explicar** uma parte do autoaprendizado para o resto do Squad.
 
-### 2. Autoaprendizagem \| Individual e Duplas {#2-autoaprendizaje--individual-y-parejas}
+## 2. Autoaprendizagem \| Individual e Duplas
 
 Duração: 105 minutos
 
-Durante esta sessão você deve ler o conteúdo e certificar-se de que com seu trio / dupla você faça um aprofundamento do conteúdo que foi desigado na sessão de auto-organização. _Recomendação: Não se limite ao conteúdo que lhe oferecemos, pelo contrário, tente reforçar o que você está aprendendo com a busca de tutoriais e outras fontes de informação._
+Durante esta sessão, você deve ler o conteúdo e certificar-se de que você faça com seu trio/dupla um aprofundamento do conteúdo que lhe foi designado na sessão de auto-organização. _Recomendação: Não se limitem ao conteúdo que lhe oferecemos, pelo contrário, tente reforçar o que você está aprendendo com a busca de tutoriais e outras fontes de informação._
 
-Trabalhem como preferir. Se houver um conteúdo que não possa ser entendido, calma, haverá um espaço guiado para resolver dúvidas específicas e que tudo fique claro.
+Trabalhem como preferir. Se houver um conteúdo que não possa ser entendido, calma, haverá um espaço voltado a resolver dúvidas específicas e fazer com que tudo fique claro.
 
-**Lembrem-se das regras:** Cada dupla / trio é responsável por explicar uma parte do autoaprendizado para o resto do elenco. Todos devem rever todo o material.
+**Lembrem-se das regras:** Cada dupla/trio é responsável por explicar uma parte do autoaprendizado para o restante do Squad. Todos devem conferir todo o material.
 
-Abaixo, apresentamos uma lista de perguntas que, toda vez que você ler algo novo, deve tentar responder. Este guia ajudará você a aproveitar ao máximo o conteúdo que você lê.
+A seguir, apresentamos uma lista de perguntas em que, toda vez que ler uma pergunta nova, tente respondê-la. Este guia lhe ajudará a aproveitar sua leitura ao máximo.
 
-#### Diretrizes para orientar a aprendizagem: {#pauta-para-guiar-el-aprendizaje}
+### Diretrizes para orientar a aprendizagem
 
 Tente sempre responder a estas perguntas:
 
-1. Qual é o tema da leitura / vídeo?
+1. Qual é o tema da leitura/vídeo?
 2. Para que serve?
-3. O que nós usamos?
-4. Como usamos isso?
+3. Em que o usamos?
+4. Como o usamos?
 5. Como esse conteúdo se relaciona com o que aprendemos anteriormente?
 
-_**Nota** : Não se esqueça que o Google é um bom amigo, use-o tanto quanto você precisar._
+_**Nota**: Não se esqueça de que o Google é um bom amigo, use-o tanto quanto precisar._
 
-### 3. Teste\| Individual {#3-quiz--individual}
+## 3. Quiz \| Individual
 
 Duração: 20 minutos
 
-Faremos um questionário individual para medir o conhecimento das atividades de pré-trabalho e de autoaprendizagem. Na seção de avaliação, você encontrará o link para o teste. Você só poderá acessá-lo quando tivermos liberado e seja hora de fazê-lo.
+Faremos um _quiz_ individual para medir o conhecimento das atividades de pré-trabalho e de autoaprendizagem. Na seção de avaliação, você encontrará o link para o teste. Você só poderá acessá-lo quando tivermos liberado e seja hora de fazê-lo.
 
-### 4. Explicação ao Grupo \| Duplas {#4-explicación-a-squad--parejas}
+## 4. Explicação ao Squad \| Duplas
 
-Duração: 60 minutos \(**Vocês terão esse tempo para que todas os trios / duplas exponham** \)
+Duração: 60 minutos \(**tempo para que todas os trios/duplas exponham**\)
 
-Neste momento, o grupo deve se reunir para ouvir cada dupla / trio explicando a parte do conteúdo que o cabe.
+Neste momento, o grupo deve se reunir para ouvir cada dupla/trio explicando a parte do conteúdo que lhe cabe.
 
-#### **Duas regras:** {#dos-reglas}
+### **Duas regras**
 
-* Cada dupla será responsável por explicar uma parte do autoaprendizado para o resto do grupo.
-* Enquanto acontece a explicação de cada dupla para o resto do grupo, é NECESSÁRIO que tome notas de tudo que não está claro ou não conseguiram aprender por si mesmas. Esta lista de perguntas é muito importante porque dessa forma a professora pode, então, fazer uma sessão de revisão das questões muito mais direcionada para solucionar dúvidas que você está tendo. **VEJA: Anote as dúvidas que permanecem enquanto você está ouvindo as explicações de seus colegas, para que você pergunte a seus parceiros ou a sua professora.**
+* Cada dupla será responsável por explicar uma parte do autoaprendizado para o restante do grupo.
+* Enquanto acontece a explicação de cada dupla para o resto do grupo, é NECESSÁRIO que tome nota de tudo que não está claro ou não conseguiram aprender por si mesmas. Esta lista de perguntas é muito importante, pois dessa forma a professora pode, então, fazer uma sessão de revisão do conteúdo muito mais direcionada para solucionar dúvidas que venham a ter. **ATENÇÃO: anote as dúvidas que aparecerem enquanto você estiver ouvindo as explicações de seus colegas, para que você pergunte a suas colegas ou à sua professora.**
 
-#### **Objetivos** {#objetivos}
+### **Objetivos**
 
-**Tempo para compartilhar conhecimento \(pessoalmente\)**
+#### **Tempo para compartilhar conhecimento \(presencial\)**
 
-* As explicações são mais proveitosas se você tiver exemplos práticos \(código, produtos, etc\). Quando sua dupla tiver que explicar a parte que estudou para o resto do grupo, SEMPRE tente usar exemplos práticos, um trecho de código ou um produto relacionado, etc. Não cometa o erro de transcrever conteúdo que já está em todo lugar, sua contribuição é entendê-lo, relacioná-lo, aplicá-lo, etc.
-* Incentive-se a fazer perguntas entre si mesmas dentro do grupo.
-* O desperdício de tempo com muita formalidade não é bom \(não é necessário fazer belos slides, tipografia, etc\). Somente o necessário para explicar.
+* As explicações são mais proveitosas se você tiver exemplos práticos \(código, produtos, etc\). Quando sua dupla tiver que explicar a parte que estudou para o resto do grupo, SEMPRE tente usar exemplos práticos, um trecho de código, produto relacionado, etc. Não cometam o erro de transcrever conteúdo que já está em todo lugar, sua contribuição é entendê-lo, relacioná-lo, aplicá-lo, etc.
+* Estimulem-se a fazer perguntas entre si mesmas dentro do squad.
+* O desperdício de tempo com muita formalidade não é bom \(não é necessário fazer belos slides, flipchart, etc\). Somente o necessário para explicar.
 
-#### Identificação de dúvidas {#identificación-de-vacíos}
+#### Identificação de lacunas {#identificación-de-vacíos}
 
-Enquanto acontece a explicação de cada dupla para o resto do grupo, é NECESSÁRIO que tome notas de tudo que não está claro ou não conseguiram aprender por si mesmas. Com as anotações de todos os grupos, faremos uma aula direcionada.
+Enquanto acontece a explicação de cada dupla para o resto do grupo, é NECESSÁRIO que anotem em _post-its_ tudo o que não ficar claro ou que não conseguiram aprender por si mesmas. Com as anotações de todos os grupos, faremos uma aula direcionada.
 
-### 5. Exposição de Dúvidas - Aula Direcionada \| Grupo {#5-exposición-de-dudas---clase-guiada--squad}
+## 5. Exposição de Dúvidas - Aula Direcionada \| Squad
 
 Duração: 40 minutos
 
-#### **Regra Única:** {#única-regla}
+### **Regra Única**
 
-Cada grupo deve passar para o professor a lista \(em notas\) de questões específicas para que eles possam ter uma aula 100% direcionada para a resolução de dúvidas.
+Cada Squad deve entregar a lista de dúvidas pessoas \(em _post-its_\) para a professora a fim de ter uma aula 100% direcionada à resolução de dúvidas.
 
-#### **Objetivos:** {#objetivos}
+### **Objetivos**
 
-Completar as lacunas de conhecimento deixadas após a autoaprendizagem
+Completar as lacunas de conhecimento que surgiram ao longo do autoaprendizado.
 
